@@ -1,4 +1,4 @@
-# CS5392 Assignmnet 1
+# CS Assignmnet 1
 The goal of this assignment is for you to become familiar with gym environment, 
 apply vae deep learning algorithm implementation,
 and see how the training/inference looks like in code.
